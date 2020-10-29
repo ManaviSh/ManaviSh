@@ -1,5 +1,5 @@
 ### Hey 👋
-###### This is Manavi's Profile, a machine learning engineer with a great affinity to data science and web development.
+###### This is Manavi's Profile, a machine learning engineer with a great affinity to data science and curiosity towards anything and everything.
 
 ###### 🔭 I’m currently working on my SQL and Competitive Coding skills
 ###### 🌱 I’m currently learning REACT
